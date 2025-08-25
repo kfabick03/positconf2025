@@ -3,9 +3,9 @@ ___
 ___
 
 ### 1.1 Background
-* <use this space to provide business context and background for the project>
-* <we recommend using bullets here to avoid a lengthy paragraph that is annoying to read>
-* <this section is sometimes best completed by explaining your project to a technical colleague and noticing what details you choose to tell them (then noting them in here)>
+* < use this space to provide business context and background for the project >
+* < we recommend using bullets here to avoid a lengthy paragraph that is annoying to read >
+* < this section is sometimes best completed by explaining your project to a technical colleague and noticing what details you choose to tell them (then noting them in here) >
 
 ### 1.2 Analytics Utilized
 * <include technical algorithms or approaches that you may want to quickly be able to look up without having to read an entire readme>
